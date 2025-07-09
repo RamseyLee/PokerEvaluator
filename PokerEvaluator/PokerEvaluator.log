@@ -1,0 +1,28 @@
+2025-07-09 17:16:58,906 - INFO - Loaded prompt.txt
+2025-07-09 17:17:12,189 - WARNING - Validation error: Player's cards cannot be empty.
+2025-07-09 17:17:15,176 - WARNING - Validation error: Player's cards cannot be empty.
+2025-07-09 17:17:18,765 - WARNING - Invalid card format: df
+2025-07-09 17:17:18,765 - WARNING - Validation error: Need exactly two player cards.
+2025-07-09 17:17:33,857 - WARNING - Invalid card format: AS
+2025-07-09 17:17:33,857 - WARNING - Invalid card format: KH
+2025-07-09 17:17:33,857 - WARNING - Invalid card format: Qd
+2025-07-09 17:17:33,858 - WARNING - Validation error: Need exactly two player cards.
+2025-07-09 17:19:28,219 - INFO - Loaded prompt.txt
+2025-07-09 17:20:04,891 - WARNING - Invalid card format: AS
+2025-07-09 17:20:04,891 - WARNING - Invalid card format: Kh
+2025-07-09 17:20:04,892 - WARNING - Invalid card format: Queen
+2025-07-09 17:20:04,892 - WARNING - Invalid card format: Diamonds
+2025-07-09 17:20:04,892 - WARNING - Invalid card format: 10
+2025-07-09 17:20:04,892 - WARNING - Invalid card format: Clubs
+2025-07-09 17:20:04,892 - WARNING - Invalid card format: 5
+2025-07-09 17:20:04,892 - WARNING - Invalid card format: Spades
+2025-07-09 17:20:48,898 - INFO - Evaluation: Hey there! Let's take a look at your hand.
+
+Holding Ace-King is a great start, and you played it aggressively, which is excellent. Making a "continuation bet" on this flop is the right idea. You have a fantastic draw with an open-ended straight draw and two overcards, so betting to build the pot and put pressure on your opponents is a solid, standard play.
+
+The only thing to be mindful of is your early position. When you bet from this spot, it can sometimes signal a very strong hand to the players acting after you, which might make their decisions a little too easy.
+
+For an improvement tip, consider sometimes using a smaller bet size, like one-third of the pot. This achieves a similar goal but risks less and does a better job of disguising your hand's true strength, making you a much tougher opponent to read.
+
+Play responsibly within your limits.
+2025-07-09 17:21:25,588 - INFO - Exiting Poker Evaluator

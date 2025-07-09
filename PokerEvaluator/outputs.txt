@@ -1,0 +1,24 @@
+
+--- Session started at 2025-07-09 17:16:58.907554 ---
+Input: Player's cards: ; Community cards: ; Context: 
+Error: Player's cards cannot be empty.
+Input: Player's cards: ; Community cards: ; Context: 
+Error: Player's cards cannot be empty.
+Input: Player's cards: df; Community cards: ; Context: 
+Error: Need exactly two player cards.
+Input: Player's cards: AS KH; Community cards: 10 Clubs; Context: asff
+Error: Need exactly two player cards.
+
+--- Session started at 2025-07-09 17:19:28.220140 ---
+Input: Player's cards: AS, Kh; Community cards: Queen Diamonds, 10 Clubs, 5 Spades; Context: Early position, bet half the pot
+Output: Hey there! Let's take a look at your hand.
+
+Holding Ace-King is a great start, and you played it aggressively, which is excellent. Making a "continuation bet" on this flop is the right idea. You have a fantastic draw with an open-ended straight draw and two overcards, so betting to build the pot and put pressure on your opponents is a solid, standard play.
+
+The only thing to be mindful of is your early position. When you bet from this spot, it can sometimes signal a very strong hand to the players acting after you, which might make their decisions a little too easy.
+
+For an improvement tip, consider sometimes using a smaller bet size, like one-third of the pot. This achieves a similar goal but risks less and does a better job of disguising your hand's true strength, making you a much tougher opponent to read.
+
+Play responsibly within your limits.
+Continue choice: n
+--- Session ended at 2025-07-09 17:21:25.589087 ---
